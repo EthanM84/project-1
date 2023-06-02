@@ -1,15 +1,12 @@
-Updated breakdown for project:
+Data Clean-Up:
+First, we imported all our dependencies, and saved the path to the CSV file as a new variable. Then, using that variable, we could read the CSV file into a dataframe. Using the df.info() function, we are able to determine if there were any non-null values (none), and the dtypes of each column. Because this call returned no non-null types and no NaN values, we determined our dataframe to be clean, without any values missing or irrelevant. Therefore we were able to use this dataframe as a good starting point to begin filtering for the appropriate data. 
+We decided to use the same Jupyter Notebook for our data analysis because the clean-up process was not as intensive.
 
-Number of births per state per year —Hannah
-Average birth weight per state (is there a trend? Need regression line) —Steph
-Number of births per state -Christina
-Average baby weight compared to mother’s age? -Nasr
-Average weight per gender? —Ethan
-
-Things to remember:
--Add trend-lines to each
--Find statistical significance (r-test, pearson's, chi-square, etc.)
--Determine which kind of graph fits the question best
--Export each graph to separate .png file
--Written analysis for each question
--Place graphs in ReadMe
+Analyses:
+Average Birth Weight (g) Per State (Are there any states with average under or overweight babies?):
+We decided to go with a bar chart for this type of analysis, and sorted the mean values from least to greatest, with the average baby weight of Mississippi being the lowest and the Alaska being the highest. 
+If we look at just these two states geographically, they are in extremely different parts of the US, and this might affect a baby's weight: Alaska is in the extreme northern part where families might place more of an emphasis on staying warm and therefore not exposing their babies to the outside, while in Mississippi is prone to heat and humidity. 
+We might also consider the relative family income of each state and if there is any impact on baby weight. For example, states like California and New York are among those with the highest family incomes, while states like Georgia and Alabama are not. However, we were not able to find any datasets that matched or overlapped the years with which our main dataset was based on, and so this must still be considered speculation. 
+Another factor we could consider is a mother's access to healthy food that might affect her baby's weight; we could look at where these women were living at the time of birth and look at the surrounding area for supermarkets (with fresh foods) and/or fast food places. But because of the way the dataset is set up (the dataframe is grouped by education level of the mother with the number of births per education level), we were unable to gather this. We would also need the addresses of each subject which is clearly out of this dataset's scope.
+We are able to determine that all states' average baby weights fall between the healthy range of 5lbs, 8oz (2500g) and 8lbs, 13oz (4000g), so we can conclude that no states have average under or over baby weights.
+We have also calculated the standard deviation for these values and this came out to be 48.88. Because this is a relatively low standard deviation, we can conclude that most of our values are clustered around the mean average baby weight for all states (3250.98g).
