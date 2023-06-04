@@ -53,7 +53,15 @@ Analyses:
 
 5. Average Baby Weight Per Gender [Ethan]:
 
-    a.
+    a.After analyzing the data and visualizing the average weight per gender, several conclusions can be drawn: There is a clear distinction in the average birth weight between males and females. The visualization shows that males tend to have a higher average birth weight compared to females.
+
+    b. The difference in average birth weight between genders is noticeable and statistically significant. This suggests that gender plays a role in determining birth weight. The average birth weight for females is around 3194.57 grams (7.04 pounds), while for males, it is around 3307.15 grams (7.29 pounds).
+
+    c. The visualization provides a clear and concise comparison of the average birth weight between genders, making it easy to interpret and understand the differences.
+
+    d. The data used for this analysis is based on the available dataset, and it is important to note that birth weight can be influenced by various factors such as genetics, maternal health, and prenatal care, among others.
+
+    e. In conclusion, the visualization highlights the difference in average birth weight between males and females, providing valuable insights into the gender-specific variations in birth weight.
     
 6. Average Baby Weight Per Mother's Education Level [Steph]:
 
