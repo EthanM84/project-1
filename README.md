@@ -7,9 +7,11 @@ Data Clean-Up:
 ----------
 
 General Questions:
-1. In the US, are there any discernible trends over the years for births, given factors such as baby weight and the age of the mother?
+1. In the US, are there any discernible trends over the years for the number of births?
 
-2. 
+2. What about the weight of the baby? Can factors such as the age of the mother or her education level affect her baby's weight?
+
+3. Is there a trend between gender and weight? Does the state a mother is living in have any affect on her baby's weight?
 
 Analyses:
 
@@ -19,11 +21,13 @@ Analyses:
     
     b. I had gone into this data set beliving that the more conservative states wouuld have the highest birthrates, but that is not necessarily true. Wyoming is one of the most conservative states, but has one of the lower birth rates. Similarly, California is a very liberal state and has the highest birth rates. 
     
-2. Number of Births Gender Per State [Christina]:
+2. Number of Births Per Gender Per State [Christina]:
 
-    a. The number of births varied across different states, with some states having significantly higher birth rates than others. This suggests variations in population dynamics and potentially different social and economic factors influencing birth rates. It can help researchers and analysts study the relationship between birth rates and various socio-economic factors, such as income levels, education, employment, and cultural factors. 
+    a. The number of births varied across different states, with some states having higher birth rates than others. There are many factors that can affect population dynamics, such as social and economic factors. It can help researchers and analysts study the correlation between birth rates and several socio-economic factors, such as income levels, education, employment, and cultural factors. 
     
-    b. This knowledge can contribute to a better understanding of societal trends and inform decision-making in areas such as education, labor market planning, and social welfare programs. Understanding the distribution of births per state can assist public health officials in planning and allocating resources, such as healthcare facilities and services, to meet the needs of the population. States with higher birth rates may require additional support and infrastructure to ensure adequate healthcare for mothers and infants.In conclusion, the analysis of the number of births per state per gender provides valuable insights into population dynamics, demographic trends, and potential factors influencing birth rates. The data can inform public health planning, policy development, social and economic analysis, and resource allocation decisions, leading to more effective and targeted interventions for maternal and child welfare.
+    b. This info can help to a better understand areas such as education, labor market planning, and social welfare programs. Understanding the distribution of births per state can help public health officials in planning and allocating resources, such as healthcare facilities and services, to meet the needs of the population. States with higher birth rates might require additional support to make sure proper healthcare for mothers and infants is provided. 
+    
+    c. In conclusion, the analysis of the number of births per state per gender provides valuable information for population dynamics and potential factors influencing birth rates. The data can inform public health planning, social and economic analysis, and resource allocation decisions, leading to more effective resources for maternal and child welfare.
     
 3. Average Birth Weight (g) Per State (Are there any states with average under or overweight babies?) [Steph]:
 
@@ -39,8 +43,6 @@ Analyses:
 
     f. We have also calculated the standard deviation for these values and this came out to be 48.88. Because this is a relatively low standard deviation, we can conclude that most of our values are clustered around the mean average baby weight for all states (3250.98g).
 
-
-
 4. Average Birth Weight (g) Per Average Age of the Mother [Nasr]:
 
     a. After analyzing our recent observations between the Average Age of Mothers and the Average weight of their babies, A line graph was created based on this data. In this graph, there is a pretty visible trend that occurs when we compare these 2 sets of data. As the Average Age of Mother increases the Average Birth Weight of their children also tends to increase. 
@@ -49,4 +51,14 @@ Analyses:
     
     c. The most significant point of data in this graph is when mothers are between the ages of 29-35. We not only can see a peak in our relationship but also a significant decline shortly after. Babies were, on average, at their heaviest when mothers were at the age of 32, and birth weight experienced a noticeable decline when mothers were between the ages of 32-34. This could be merely a coincidence, or potentially external factors related to health affecting the dataset.
 
-  
+5. Average Baby Weight Per Gender [Ethan]:
+
+    a.
+    
+6. Average Baby Weight Per Mother's Education Level [Steph]:
+
+    a. Another observation we can infer from the dataset is the trend between baby weight and the mother's education level. It seems there is a slight increase in baby weight as the mother continues her education; this might be due to the mother's intiial weight and age (younger mothers in their teens and twenties might weigh less than older mothers in their thirties), but we do see a slight dropoff in weight when a mother has received a doctorate degree.
+    
+    b. There are, however, a great number of outliers within the doctorate level of education, which might suggest that women who have children in their later years have extremely varied lifestyles and/or health issues that affect their babies' weight.
+    
+    c. Further analysis might look for other factors, such as the amount of stress a mother is under during her schooling, her eating habits, and the amount of exercise she commits to.
