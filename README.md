@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
+<!-- <style>
 body {
   font-family: Arial, sans-serif;
   line-height: 1.5;
@@ -23,7 +23,7 @@ ol li {
 margin-bottom: 10px;
 }
 
-</style>
+</style> -->
 </head>
 <body>
 <h1>Data Clean-Up:</h1>
