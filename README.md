@@ -10,14 +10,14 @@ h2 {
 margin-top: 20px;
 } -->
 
-p {
+<!-- p {
 margin-bottom: 10px;
 }
 
 ol {
 margin-left: 20px;
 margin-bottom: 20px;
-}
+} -->
 
 ol li {
 margin-bottom: 10px;
