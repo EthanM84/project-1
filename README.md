@@ -1,29 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<!-- <style>
-body {
-  font-family: Arial, sans-serif;
-  line-height: 1.5;
-}
-h2 {
-margin-top: 20px;
-} -->
 
-<!-- p {
-margin-bottom: 10px;
-}
-
-ol {
-margin-left: 20px;
-margin-bottom: 20px;
-} -->
-
-<!-- ol li {
-margin-bottom: 10px;
-} -->
-
-<!-- </style> -->
 </head>
 <body>
 <h1>Data Clean-Up:</h1>
