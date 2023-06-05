@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
+<!-- <style>
 body {
   font-family: Arial, sans-serif;
   line-height: 1.5;
 }
 h2 {
 margin-top: 20px;
-}
+} -->
 
 p {
 margin-bottom: 10px;
